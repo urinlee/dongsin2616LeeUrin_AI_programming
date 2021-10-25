@@ -35,6 +35,7 @@ while True:
     answer = answer.replace("🤣", "")
     answer = answer.replace("🤐", "")
     answer = answer.replace("🤔", "")
+    answer = answer.replace("핑퐁", "우린")
     
 
 
